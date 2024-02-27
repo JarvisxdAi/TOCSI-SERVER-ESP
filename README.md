@@ -4,10 +4,11 @@ TOCSI SERVER ESP IS A TOOL THAT SHOW THE LOCATION OF ENEMIES OF GAMES LIKE PUBG 
 
 ### TAB ON IMAGE FOR DOWNLOAD 
 
-<p align="center"><a href="https://telegram.me/TOCSISERVER"><img src="https://te.legra.ph/file/c6e1041c6c9a12913f57a.png"></a></p>
+<p align="center"><a href="https://telegram.me/TOCSISERVER"><img src="https://telegra.ph/file/2b7676c9908872da24671.jpg"></a></p>
 
 
 ### JOIN TELEGRAM CHANNEL 
-[![Tocsi server](https://te.legra.ph/file/8f9d2a593854d0c736201.png)](https://telegram.me/TOCSISERVER)
+[![Tocsi server](https://telegra.ph/file/109e577281b48fdf2b3b9.jpg)](https://telegram.me/TOCSISERVER)
 
+# channel owner & Developer
 - [Tocsi](https://telegram.me/fridayxd)
